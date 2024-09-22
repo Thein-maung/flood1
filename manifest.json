@@ -1,0 +1,25 @@
+{
+  "name": "Flood Alert App",
+  "short_name": "FloodAlert",
+  "description": "Get real-time flood alerts, weather updates, and rescue notifications to stay safe during floods.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0077cc",
+  "icons": [
+    {
+      "src": "/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "scope": "/",
+  "related_applications": [],
+  "prefer_related_applications": false
+}
