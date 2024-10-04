@@ -30,6 +30,7 @@ This project is open-source, but we need funding to continue development, integr
 💖 Sponsor this project to help us grow!
 
 kpay +959977406539
+
 wave pay +959977406539
 
 License
