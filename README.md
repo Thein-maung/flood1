@@ -13,7 +13,7 @@ How It Works
 The app collects data from local weather services and user reports, issuing flood alerts when danger is detected. It creates a mesh network using Bluetooth, enabling users to connect with rescue teams even without internet access.
 
 Installation
-Clone the repo: git clone https://github.com/Thein-Maung/flood-alert-app.git
+Clone the repo: git clone https://github.com/Thein-Maung/flood1app.git
 Install dependencies: npm install or yarn install
 Run the app: npm start
 Contributing
